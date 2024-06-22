@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "883556325547",
+    "project_id": "online-nursery-plant-shop",
+    "storage_bucket": "online-nursery-plant-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883556325547:android:7a439cc1ac4d68da53ffee",
+        "android_client_info": {
+          "package_name": "com.mikestudio.nursery_plants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883556325547-ue42u899r2l84749us1uk99cs2tb4nfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikestudio.nursery_plants",
+            "certificate_hash": "653785f06c89dcde5afddc06bcdd117a47cca374"
+          }
+        },
+        {
+          "client_id": "883556325547-lj3rko2h4vqutoosne9t9ih7gc70fp6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6SIy5aeMQglhy6P8P7_Wp6Ja-n3tr7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883556325547-lj3rko2h4vqutoosne9t9ih7gc70fp6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883556325547-nh1bnimj94k474qcqiji26al4qv9l0fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineNurseryPlantShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
